@@ -1,5 +1,7 @@
 # August Wünsche – Midraschim
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24527651.svg)](https://doi.org/10.5281/zenodo.24527651)
+
 [Version 1.0.0](https://github.com/mitkin89/wunesche-midraschim/releases/tag/1.0.0)
 
 <p align="center">
@@ -64,4 +66,4 @@ Siehe [LICENSE.md](LICENSE.md). Neu erstellte Dokumentation und redaktionelle Au
 
 ## Zitieren
 
-Igor Mendel Itkin (Hg.): *August Wünsche – Midraschim*. 2026. https://github.com/mitkin89/wunesche-midraschim. Bitte zusätzlich die jeweilige Druckausgabe und bei den Sefaria-Dateien die dortige Digitalisierung angeben. Siehe [CITATION.cff](CITATION.cff).
+Igor Mendel Itkin (Hg.): *August Wünsche – Midraschim*. Version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24527651. Bitte zusätzlich die jeweilige Druckausgabe und bei den Sefaria-Dateien die dortige Digitalisierung angeben. Siehe [CITATION.cff](CITATION.cff).

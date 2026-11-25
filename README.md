@@ -1,5 +1,7 @@
 # August Wünsche – German Midrash translations
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24527651.svg)](https://doi.org/10.5281/zenodo.24527651)
+
 [Version 1.0.0](https://github.com/mitkin89/wunesche-midraschim/releases/tag/1.0.0)
 
 <p align="center">
@@ -64,4 +66,4 @@ See [LICENSE.md](LICENSE.md). New documentation and editorial preparation: CC BY
 
 ## Citation
 
-Igor Mendel Itkin (ed.): *August Wünsche – Midraschim*. 2026. https://github.com/mitkin89/wunesche-midraschim. Please also cite the printed edition used and Sefaria's digitization where applicable. See [CITATION.cff](CITATION.cff).
+Igor Mendel Itkin (ed.): *August Wünsche – Midraschim*. Version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24527651. Please also cite the printed edition used and Sefaria's digitization where applicable. See [CITATION.cff](CITATION.cff).
