@@ -1,12 +1,14 @@
 cff-version: 1.2.0
 message: "Please cite this collection and the original edition used."
 type: dataset
+version: "1.0.0"
+date-released: "2026-11-25"
 title: "August Wünsche – Midraschim: German translations"
 authors:
   - family-names: Itkin
     given-names: Igor Mendel
 license: CC-BY-4.0
 repository-code: "https://github.com/mitkin89/wunesche-midraschim"
-url: "https://github.com/mitkin89/wunesche-midraschim"
+url: "https://github.com/mitkin89/wunesche-midraschim/releases/tag/1.0.0"
 keywords: [Midrash, Wünsche, German translation, Midrash Rabbah, Mechiltha, Pesikta, Sefaria]
 abstract: "Thirteen historical German Midrash translations by August Wünsche, including the Mechiltha with Jakob Winter, with preserved edition metadata, inline footnotes and provenance. Source-specific rights are documented in LICENSE.md."

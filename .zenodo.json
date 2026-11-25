@@ -1,0 +1,33 @@
+{
+  "title": "August Wünsche – Midraschim: German translations",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "publication_date": "2026-11-25",
+  "description": "Thirteen historical German Midrash translations by August Wünsche, including the Mechiltha with Jakob Winter: the ten Midrash Rabbah works on the Torah and Five Megillot, Pesikta de-Rav Kahana, Midrash Shmuel and Mechiltha. Ten editions are exported from Safran; the Wünsche editions of Bereshit, Shemot and Vayikra Rabbah come from the public Sefaria export. 5,897 nonempty segments, preserved footnotes, edition metadata, source-specific rights notices, SHA-256 provenance and validation scripts. Known omissions of digital editions are documented. CC BY 4.0 applies to new documentation and editorial preparation; upstream source notices and separate MIT script terms remain applicable.",
+  "creators": [
+    {
+      "name": "Itkin, Igor Mendel"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Midrash",
+    "Wünsche",
+    "German translation",
+    "Midrash Rabbah",
+    "Mechiltha",
+    "Sefaria"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/mitkin89/Safran",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/Sefaria/Sefaria-Export",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # August Wünsche – Midraschim
 
+[Version 1.0.0](https://github.com/mitkin89/wunesche-midraschim/releases/tag/1.0.0)
+
 <p align="center">
   <img src="portraits/wuensche.jpg" alt="August Wünsche" height="180">
   <br><sub>August Wünsche</sub>
