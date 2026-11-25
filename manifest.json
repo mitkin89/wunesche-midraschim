@@ -1,0 +1,507 @@
+{
+  "source_repository": "https://github.com/mitkin89/Safran",
+  "source_commit": "245474dfb00b9c68c8496e6ad24dd95b441fcff6",
+  "scope": "All Wünsche editions in the public Safran bundled manifest, plus Bereshit, Shemot and Vayikra Rabbah from Sefaria; not a complete bibliography or complete printed editions.",
+  "works": [
+    {
+      "title": "Bamidbar Rabbah",
+      "file": "data/Bamidbar_Rabbah.json",
+      "source": "bundled/own/Bamidbar Rabbah/de/Der Midrasch Bemidbar Rabba. Zum ersten Male ins Deutsche uebertragen von Dr. August Wünsche. Leizig 1885 [de].json",
+      "safran_manifest_entry": {
+        "rel": "own/Bamidbar Rabbah/de/Der Midrasch Bemidbar Rabba. Zum ersten Male ins Deutsche uebertragen von Dr. August Wünsche. Leizig 1885 [de].json",
+        "title": "Bamidbar Rabbah",
+        "heTitle": "במדבר רבה",
+        "language": "English",
+        "versionTitle": "Der Midrasch Bemidbar Rabba. Zum ersten Male ins Deutsche uebertragen von Dr. August Wünsche. Leizig 1885 [de]",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "kind": "de",
+        "hash": "3765bd26f4bea9f396173bcc67d4aa59e9b187d9"
+      },
+      "text_language": "de",
+      "segments": 444,
+      "nonempty_segments": 444,
+      "characters": 1564225,
+      "footnote_markers": 286,
+      "links": [
+        "links/Bamidbar Rabbah.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Bereshit Rabbah",
+      "file": "data/Bereshit_Rabbah.json",
+      "source": "sefaria/Bereshit_Rabbah.json",
+      "text_language": "de",
+      "edition": {
+        "status": "",
+        "priority": "",
+        "license": "Public Domain",
+        "versionNotes": "Gefördert durch die Alfred Freiherr von Oppenheim-Stiftung.",
+        "formatAsPoetry": "",
+        "digitizedBySefaria": "",
+        "method": "",
+        "heversionSource": "",
+        "versionUrl": "",
+        "versionTitleInHebrew": "",
+        "versionNotesInHebrew": "",
+        "shortVersionTitle": "",
+        "shortVersionTitleInHebrew": "",
+        "extendedNotes": "",
+        "extendedNotesHebrew": "",
+        "purchaseInformationImage": "",
+        "purchaseInformationURL": "",
+        "hasManuallyWrappedRefs": "",
+        "language": "en",
+        "title": "Bereshit Rabbah",
+        "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH990021066140205171/NLI",
+        "versionTitle": "Der Midrasch Bereschit Rabba. Zum ersten Male ins Deutsche übertragen von Dr. August Wünsche. Leipzig 1881 [de]",
+        "actualLanguage": "de",
+        "languageFamilyName": "german",
+        "isSource": false,
+        "isPrimary": false,
+        "direction": "ltr"
+      },
+      "download_url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Bereshit%20Rabbah/English/Der%20Midrasch%20Bereschit%20Rabba.%20Zum%20ersten%20Male%20ins%20Deutsche%20%C3%BCbertragen%20von%20Dr.%20August%20W%C3%BCnsche.%20Leipzig%201881%20%5Bde%5D.json",
+      "segments": 1037,
+      "nonempty_segments": 1037,
+      "characters": 1401195,
+      "footnote_markers": 637,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Devarim Rabbah",
+      "file": "data/Devarim_Rabbah.json",
+      "source": "bundled/own/Devarim Rabbah/de/Der Midrasch Debarim Rabba; zum ersten Male ins Dt. übertr. von August Wünsche. Leipzig 1882.json",
+      "safran_manifest_entry": {
+        "rel": "own/Devarim Rabbah/de/Der Midrasch Debarim Rabba; zum ersten Male ins Dt. übertr. von August Wünsche. Leipzig 1882.json",
+        "title": "Devarim Rabbah",
+        "heTitle": "דברים רבה",
+        "language": "English",
+        "versionTitle": "Der Midrasch Debarim Rabba; zum ersten Male ins Dt. übertr. von August Wünsche. Leipzig 1882",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "kind": "de",
+        "hash": "7e3a223eacf41481a6471ec96dd14cb8489356f8"
+      },
+      "text_language": "de",
+      "segments": 161,
+      "nonempty_segments": 160,
+      "characters": 338584,
+      "footnote_markers": 69,
+      "links": [
+        "links/Devarim Rabbah.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Eikhah Rabbah",
+      "file": "data/Eikhah_Rabbah.json",
+      "source": "bundled/own/Eikhah Rabbah/de/Der Midrasch Echa Rabbati, deutsch von A. Wünsche, Leipzig 1881 (Transkription eScriptorium).json",
+      "safran_manifest_entry": {
+        "rel": "own/Eikhah Rabbah/de/Der Midrasch Echa Rabbati, deutsch von A. Wünsche, Leipzig 1881 (Transkription eScriptorium).json",
+        "title": "Eikhah Rabbah",
+        "heTitle": "איכה רבה",
+        "language": "English",
+        "versionTitle": "Der Midrasch Echa Rabbati, deutsch von A. Wünsche, Leipzig 1881 (Transkription eScriptorium)",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "kind": "de",
+        "hash": "7b9aa841bad8069f3637f7d74808a70d08e10bcc"
+      },
+      "text_language": "de",
+      "segments": 186,
+      "nonempty_segments": 186,
+      "characters": 434792,
+      "footnote_markers": 104,
+      "links": [
+        "links/Eikhah Rabbah, Petichta.tsv",
+        "links/Eikhah Rabbah.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Esther Rabbah",
+      "file": "data/Esther_Rabbah.json",
+      "source": "bundled/own/Esther Rabbah/de/Der Midrasch Esther, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json",
+      "safran_manifest_entry": {
+        "rel": "own/Esther Rabbah/de/Der Midrasch Esther, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json",
+        "title": "Esther Rabbah",
+        "heTitle": "אסתר רבה",
+        "language": "English",
+        "versionTitle": "Der Midrasch Esther, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium)",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "kind": "de",
+        "hash": "8de3719402ce61748b4dae367ae3c57d24ea5ce7"
+      },
+      "text_language": "de",
+      "segments": 142,
+      "nonempty_segments": 136,
+      "characters": 206654,
+      "footnote_markers": 33,
+      "links": [
+        "links/Esther Rabbah, Petichta.tsv",
+        "links/Esther Rabbah.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Kohelet Rabbah",
+      "file": "data/Kohelet_Rabbah.json",
+      "source": "bundled/own/Kohelet Rabbah/de/Der Midrasch Kohelet, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json",
+      "safran_manifest_entry": {
+        "rel": "own/Kohelet Rabbah/de/Der Midrasch Kohelet, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json",
+        "title": "Kohelet Rabbah",
+        "heTitle": "קוהלת רבה",
+        "language": "English",
+        "versionTitle": "Der Midrasch Kohelet, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium)",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "kind": "de",
+        "hash": "07e53f1de3a767f05baf30591448470092a5dc80"
+      },
+      "text_language": "de",
+      "segments": 271,
+      "nonempty_segments": 270,
+      "characters": 435739,
+      "footnote_markers": 129,
+      "links": [
+        "links/Kohelet Rabbah.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mekhilta DeRabbi Yishmael",
+      "file": "data/Mekhilta_DeRabbi_Yishmael.json",
+      "source": "bundled/own/Mekhilta DeRabbi Yishmael/de/Mechiltha. Ein tannaitischer Midrasch zu Exodus, übersetzt und erläutert von J. Winter und A. Wünsche, Leipzig 1909.json",
+      "safran_manifest_entry": {
+        "rel": "own/Mekhilta DeRabbi Yishmael/de/Mechiltha. Ein tannaitischer Midrasch zu Exodus, übersetzt und erläutert von J. Winter und A. Wünsche, Leipzig 1909.json",
+        "title": "Mekhilta DeRabbi Yishmael",
+        "heTitle": "מכילתא דרבי ישמעאל",
+        "language": "English",
+        "versionTitle": "Mechiltha. Ein tannaitischer Midrasch zu Exodus, übersetzt und erläutert von J. Winter und A. Wünsche, Leipzig 1909",
+        "categories": [
+          "Midrash",
+          "Halakhah"
+        ],
+        "kind": "de",
+        "hash": "70aa994d8ee7c87c1563919d1ab70a2a18c286e4"
+      },
+      "text_language": "de",
+      "segments": 2046,
+      "nonempty_segments": 2008,
+      "characters": 1167569,
+      "footnote_markers": 1278,
+      "links": [
+        "links/Mekhilta DeRabbi Yishmael, Tractate Amalek.tsv",
+        "links/Mekhilta DeRabbi Yishmael, Tractate Bachodesh.tsv",
+        "links/Mekhilta DeRabbi Yishmael, Tractate Kaspa.tsv",
+        "links/Mekhilta DeRabbi Yishmael, Tractate Nezikin.tsv",
+        "links/Mekhilta DeRabbi Yishmael, Tractate Pischa.tsv",
+        "links/Mekhilta DeRabbi Yishmael, Tractate Shabbata.tsv",
+        "links/Mekhilta DeRabbi Yishmael, Tractate Shirah.tsv",
+        "links/Mekhilta DeRabbi Yishmael, Tractate Vayassa.tsv",
+        "links/Mekhilta DeRabbi Yishmael, Tractate Vayehi Beshalach.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Midrash Shmuel",
+      "file": "data/Midrash_Shmuel.json",
+      "source": "bundled/own/Midrash Shmuel/de/Midrasch Samuel (Aus Israels Lehrhallen V), deutsch von A. Wünsche, Leipzig 1910 (Transkription eScriptorium).json",
+      "safran_manifest_entry": {
+        "rel": "own/Midrash Shmuel/de/Midrasch Samuel (Aus Israels Lehrhallen V), deutsch von A. Wünsche, Leipzig 1910 (Transkription eScriptorium).json",
+        "title": "Midrash Shmuel",
+        "heTitle": "מדרש שמואל",
+        "language": "English",
+        "versionTitle": "Midrasch Samuel (Aus Israels Lehrhallen V), deutsch von A. Wünsche, Leipzig 1910 (Transkription eScriptorium)",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "kind": "de",
+        "hash": "beba41fdf83a517f1985648a0cfdbc97ef4159c0"
+      },
+      "text_language": "de",
+      "segments": 207,
+      "nonempty_segments": 207,
+      "characters": 354570,
+      "footnote_markers": 518,
+      "links": [
+        "links/Midrash Shmuel.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Pesikta DeRav Kahana",
+      "file": "data/Pesikta_DeRav_Kahana.json",
+      "source": "bundled/own/Pesikta DeRav Kahana/de/Pesikta des Rab Kahana, deutsch von A. Wünsche, Leipzig 1885 (Transkription eScriptorium).json",
+      "safran_manifest_entry": {
+        "rel": "own/Pesikta DeRav Kahana/de/Pesikta des Rab Kahana, deutsch von A. Wünsche, Leipzig 1885 (Transkription eScriptorium).json",
+        "title": "Pesikta DeRav Kahana",
+        "heTitle": "פסיקתא דרב כהנא",
+        "language": "English",
+        "versionTitle": "Pesikta des Rab Kahana, deutsch von A. Wünsche, Leipzig 1885 (Transkription eScriptorium)",
+        "categories": [
+          "Midrash",
+          "Aggadah"
+        ],
+        "kind": "de",
+        "hash": "febf7646509fc34d170c84d19f2ab7be5b8b8276"
+      },
+      "text_language": "de",
+      "segments": 304,
+      "nonempty_segments": 303,
+      "characters": 782147,
+      "footnote_markers": 584,
+      "links": [
+        "links/Pesikta DeRav Kahana.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Ruth Rabbah",
+      "file": "data/Ruth_Rabbah.json",
+      "source": "bundled/own/Ruth Rabbah/de/Der Midrasch Ruth, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json",
+      "safran_manifest_entry": {
+        "rel": "own/Ruth Rabbah/de/Der Midrasch Ruth, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json",
+        "title": "Ruth Rabbah",
+        "heTitle": "רות רבה",
+        "language": "English",
+        "versionTitle": "Der Midrasch Ruth, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium)",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "kind": "de",
+        "hash": "b3cc7f84d0755f04be7cf32a5f5c7f7666f936f0"
+      },
+      "text_language": "de",
+      "segments": 88,
+      "nonempty_segments": 88,
+      "characters": 163822,
+      "footnote_markers": 38,
+      "links": [
+        "links/Ruth Rabbah, Petichta.tsv",
+        "links/Ruth Rabbah.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Shemot Rabbah",
+      "file": "data/Shemot_Rabbah.json",
+      "source": "sefaria/Shemot_Rabbah.json",
+      "text_language": "de",
+      "edition": {
+        "status": "",
+        "priority": "",
+        "license": "",
+        "versionNotes": "Gefördert durch die Alfred Freiherr von Oppenheim-Stiftung.",
+        "formatAsPoetry": "",
+        "digitizedBySefaria": "",
+        "method": "",
+        "heversionSource": "",
+        "versionUrl": "",
+        "versionTitleInHebrew": "",
+        "versionNotesInHebrew": "",
+        "shortVersionTitle": "",
+        "shortVersionTitleInHebrew": "",
+        "extendedNotes": "",
+        "extendedNotesHebrew": "",
+        "purchaseInformationImage": "",
+        "purchaseInformationURL": "",
+        "hasManuallyWrappedRefs": "",
+        "language": "en",
+        "title": "Shemot Rabbah",
+        "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH990010396710205171/NLI",
+        "versionTitle": "Der Midrach Schemot Rabba. Zum ersten Male ins Deutsche übertragen von Dr. August Wünsche. Leipzig 1882 [de]",
+        "actualLanguage": "de",
+        "languageFamilyName": "german",
+        "isSource": false,
+        "isPrimary": false,
+        "direction": "ltr"
+      },
+      "download_url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Shemot%20Rabbah/English/Der%20Midrach%20Schemot%20Rabba.%20Zum%20ersten%20Male%20ins%20Deutsche%20%C3%BCbertragen%20von%20Dr.%20August%20W%C3%BCnsche.%20Leipzig%201882%20%5Bde%5D.json",
+      "segments": 464,
+      "nonempty_segments": 464,
+      "characters": 975753,
+      "footnote_markers": 105,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Shir HaShirim Rabbah",
+      "file": "data/Shir_HaShirim_Rabbah.json",
+      "source": "bundled/own/Shir HaShirim Rabbah/de/Der Midrasch Schir Haschirim, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json",
+      "safran_manifest_entry": {
+        "rel": "own/Shir HaShirim Rabbah/de/Der Midrasch Schir Haschirim, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json",
+        "title": "Shir HaShirim Rabbah",
+        "heTitle": "שיר השירים רבה",
+        "language": "English",
+        "versionTitle": "Der Midrasch Schir Haschirim, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium)",
+        "categories": [
+          "Midrash",
+          "Aggadah",
+          "Midrash Rabbah"
+        ],
+        "kind": "de",
+        "hash": "8e220fc72fd3a8e41480ec25ab5226bf5597dc26"
+      },
+      "text_language": "de",
+      "segments": 264,
+      "nonempty_segments": 264,
+      "characters": 544441,
+      "footnote_markers": 132,
+      "links": [
+        "links/Shir HaShirim Rabbah.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Vayikra Rabbah",
+      "file": "data/Vayikra_Rabbah.json",
+      "source": "sefaria/Vayikra_Rabbah.json",
+      "text_language": "de",
+      "edition": {
+        "status": "locked",
+        "priority": "",
+        "license": "Public Domain",
+        "versionNotes": "Gefördert durch die Alfred Freiherr von Oppenheim-Stiftung.",
+        "formatAsPoetry": "",
+        "digitizedBySefaria": "",
+        "method": "",
+        "heversionSource": "",
+        "versionUrl": "",
+        "versionTitleInHebrew": "",
+        "versionNotesInHebrew": "",
+        "shortVersionTitle": "",
+        "shortVersionTitleInHebrew": "",
+        "extendedNotes": "",
+        "extendedNotesHebrew": "",
+        "purchaseInformationImage": "",
+        "purchaseInformationURL": "",
+        "hasManuallyWrappedRefs": "",
+        "language": "en",
+        "title": "Vayikra Rabbah",
+        "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH990010397100205171/NLI",
+        "versionTitle": "Der Midrach Wajikra Rabba. Zum ersten Male ins Deutsche übertragen von Dr. August Wünsche. Leipzig 1884 [de]",
+        "actualLanguage": "de",
+        "languageFamilyName": "german",
+        "isSource": false,
+        "isPrimary": false,
+        "direction": "ltr"
+      },
+      "download_url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Vayikra%20Rabbah/English/Der%20Midrach%20Wajikra%20Rabba.%20Zum%20ersten%20Male%20ins%20Deutsche%20%C3%BCbertragen%20von%20Dr.%20August%20W%C3%BCnsche.%20Leipzig%201884%20%5Bde%5D.json",
+      "segments": 330,
+      "nonempty_segments": 330,
+      "characters": 757568,
+      "footnote_markers": 156,
+      "links": [],
+      "outline": null
+    }
+  ],
+  "exported_sha256": {
+    "data/Bamidbar_Rabbah.json": "b167c325790a9095d1d982079bfb5b2bff42d2c93b93ffe4d3c46214e864fee7",
+    "data/Bereshit_Rabbah.json": "cb52860f9d4a289e170afa35063e264fcfefcc409c317af160c7e914612b926d",
+    "data/Devarim_Rabbah.json": "0648afabc170b8d11f7364087a71bd0bf8aa42f2a902e549910cc85b2980ab34",
+    "data/Eikhah_Rabbah.json": "e11f5e45c87beadb67996ff2902b647db4571d23126994135535649ae57d4c93",
+    "data/Esther_Rabbah.json": "d4bcc1747aab617c4eb0b01ea0a544c20a0eac82d60783730ceb12b6fd83969e",
+    "data/Kohelet_Rabbah.json": "6c5d4e34a17bb3cd2d3143a710afe597143fcc6f05d2607a2be5657cbeb67cb0",
+    "data/Mekhilta_DeRabbi_Yishmael.json": "0949109441082079f7199970fb8ba19bf081fed1a966be91ee64a5dca643f88d",
+    "data/Midrash_Shmuel.json": "b0f1e7a88f3b216f7408ecf89173c4dc615ce3f7b7a072a9c6c45cf2e1baf4f2",
+    "data/Pesikta_DeRav_Kahana.json": "d141bb6f6917cb9dc94905864dbed83108ff54b097addadc180cdaf006191a7e",
+    "data/Ruth_Rabbah.json": "ecccaa95ed818576cbccd8fb6017d0e1b57843205ffabc958c3868bd356ee2ca",
+    "data/Shemot_Rabbah.json": "fb3a243e60017390d5078c7303e3e254e522ca1b903cbf8887b23305b9fa7bea",
+    "data/Shir_HaShirim_Rabbah.json": "6b8657df94defd1f586ffccdd4adc4c5a72ea72935c115e7e68f02a72e3679cc",
+    "data/Vayikra_Rabbah.json": "89088f817d1b559f071cfcdd293512e26e1d840657ee5766482d258ed870777f",
+    "docs/mechilta/AUFTRAG_OCR.md": "42c0347c408fff1813ee527dd50ec8914d38f51301c7db45840efe3c0b70fb23",
+    "docs/mechilta/AUFTRAG_SEG.md": "8f9c920e01808a53b114d10560df414e691cd8adbf3f6c663c645c0cbe7d76c8",
+    "links/Bamidbar Rabbah.tsv": "46997d05e21aa4c2d50dba500599660da69a474296dc91078230eb6664f1b647",
+    "links/Devarim Rabbah.tsv": "2ff0a0e16598eb23e325bb20ea2ed8c51775aebcb9377057fb75e6c35ddd0d9d",
+    "links/Eikhah Rabbah, Petichta.tsv": "4ed075bd8c617439d1bec8b09565540ee021daa5ad93893f45cb9042a4473060",
+    "links/Eikhah Rabbah.tsv": "653b71d2b60d094ef16047eaff4165e3da72228a111d991b8194b0aaa8917b4f",
+    "links/Esther Rabbah, Petichta.tsv": "77f7ee2f2fd627115c2d4d9b76869b66e6a4a0f0554d28856c1a02831e6336c1",
+    "links/Esther Rabbah.tsv": "628b9585bff8db302f909e248320f7197fc0bdf7b629d2a862b073b33e76bd0f",
+    "links/Kohelet Rabbah.tsv": "a52f5319c679e7a8b7d0f785ad045c4a876645c047245e49bc7ce5319bc69e3d",
+    "links/Mekhilta DeRabbi Yishmael, Tractate Amalek.tsv": "18f76fc04c26fda134793cede36ad1244bbd17cdd55e5573c7a260ed4a53dcbd",
+    "links/Mekhilta DeRabbi Yishmael, Tractate Bachodesh.tsv": "66b6757442333cd33128b8aac92bce9997b34b0746ca35381243e4992dcd0f91",
+    "links/Mekhilta DeRabbi Yishmael, Tractate Kaspa.tsv": "d3b150b414a911b60c0576b00e073dbb9a2e3f215bf392fe2ce6a38c926ae4e2",
+    "links/Mekhilta DeRabbi Yishmael, Tractate Nezikin.tsv": "b0e96b28cff37f8bc7085ac723a0054221f2bfc734115139ae5c62e68a8b01ee",
+    "links/Mekhilta DeRabbi Yishmael, Tractate Pischa.tsv": "0a758df294139e4bfd8a472991d589ff73a80b184e5d70e7a84d0d52f655ef9a",
+    "links/Mekhilta DeRabbi Yishmael, Tractate Shabbata.tsv": "97db7673006cfa5f70063f15ddf6d3b921e6008931a05b3c8df68f0108ec2fd6",
+    "links/Mekhilta DeRabbi Yishmael, Tractate Shirah.tsv": "cffffa8fbbe9ae0c83d927ac234ba193cc0f5bd598eb4678438eae2093619d88",
+    "links/Mekhilta DeRabbi Yishmael, Tractate Vayassa.tsv": "1b014a3a057334c457ccdc16b095f847d9eef320db54513488f63b54a5f6e146",
+    "links/Mekhilta DeRabbi Yishmael, Tractate Vayehi Beshalach.tsv": "e347839c4b14311734ec0258f711a7281fc888914a3808edc085f590e97fc68f",
+    "links/Midrash Shmuel.tsv": "3eaa6cb209faf6bf740cba35fa3688e9497d9322e3b28e17c6a952b898a8c9d1",
+    "links/Pesikta DeRav Kahana.tsv": "47add7d63634de591b02fd954ce93e5445327f9f729ca89173759bb0da7d58f2",
+    "links/Ruth Rabbah, Petichta.tsv": "c08f6ee23576f26ab3cf797792b1e8f318a51eb0c2165f3af493c5a67b1ac0bd",
+    "links/Ruth Rabbah.tsv": "533b5bd583d06be59f5851fb4db6064fa705cdc9706341b375349be1438277a8",
+    "links/Shir HaShirim Rabbah.tsv": "17933cfe6aea5b0985d18a80836aff48308a8d712a1bde2830a93c41755b95e2",
+    "portraits/wuensche.jpg": "600d8a23659167da72ef5c7484f8e9770b88e2319d625424b3875c1801e45cc8",
+    "scripts/mechilta/assemble.py": "7a097bf0f6d9a141fb450ecf87de7e59e7c0f0dfce07dbe36a47fe2418b9466c",
+    "scripts/mechilta/blocks.py": "a9f58cfaf7d34e0bdc27bc24061114a31781a1b001a26afc8ad82930a8d63046",
+    "scripts/mechilta/build_out.py": "26bdf7d34485eb7dafa166edc81be41d3411ca3c99613f3677b41ddcc7e253d7",
+    "scripts/mechilta/merge.py": "3d219dbdead51312a258ba3625c2452fe0e3fa952d7af4b5ef65cf554fd9c800"
+  },
+  "sha256": {
+    "bundled/links/Bamidbar Rabbah.tsv": "46997d05e21aa4c2d50dba500599660da69a474296dc91078230eb6664f1b647",
+    "bundled/links/Devarim Rabbah.tsv": "2ff0a0e16598eb23e325bb20ea2ed8c51775aebcb9377057fb75e6c35ddd0d9d",
+    "bundled/links/Eikhah Rabbah, Petichta.tsv": "4ed075bd8c617439d1bec8b09565540ee021daa5ad93893f45cb9042a4473060",
+    "bundled/links/Eikhah Rabbah.tsv": "653b71d2b60d094ef16047eaff4165e3da72228a111d991b8194b0aaa8917b4f",
+    "bundled/links/Esther Rabbah, Petichta.tsv": "77f7ee2f2fd627115c2d4d9b76869b66e6a4a0f0554d28856c1a02831e6336c1",
+    "bundled/links/Esther Rabbah.tsv": "628b9585bff8db302f909e248320f7197fc0bdf7b629d2a862b073b33e76bd0f",
+    "bundled/links/Kohelet Rabbah.tsv": "a52f5319c679e7a8b7d0f785ad045c4a876645c047245e49bc7ce5319bc69e3d",
+    "bundled/links/Mekhilta DeRabbi Yishmael, Tractate Amalek.tsv": "18f76fc04c26fda134793cede36ad1244bbd17cdd55e5573c7a260ed4a53dcbd",
+    "bundled/links/Mekhilta DeRabbi Yishmael, Tractate Bachodesh.tsv": "66b6757442333cd33128b8aac92bce9997b34b0746ca35381243e4992dcd0f91",
+    "bundled/links/Mekhilta DeRabbi Yishmael, Tractate Kaspa.tsv": "d3b150b414a911b60c0576b00e073dbb9a2e3f215bf392fe2ce6a38c926ae4e2",
+    "bundled/links/Mekhilta DeRabbi Yishmael, Tractate Nezikin.tsv": "b0e96b28cff37f8bc7085ac723a0054221f2bfc734115139ae5c62e68a8b01ee",
+    "bundled/links/Mekhilta DeRabbi Yishmael, Tractate Pischa.tsv": "0a758df294139e4bfd8a472991d589ff73a80b184e5d70e7a84d0d52f655ef9a",
+    "bundled/links/Mekhilta DeRabbi Yishmael, Tractate Shabbata.tsv": "97db7673006cfa5f70063f15ddf6d3b921e6008931a05b3c8df68f0108ec2fd6",
+    "bundled/links/Mekhilta DeRabbi Yishmael, Tractate Shirah.tsv": "cffffa8fbbe9ae0c83d927ac234ba193cc0f5bd598eb4678438eae2093619d88",
+    "bundled/links/Mekhilta DeRabbi Yishmael, Tractate Vayassa.tsv": "1b014a3a057334c457ccdc16b095f847d9eef320db54513488f63b54a5f6e146",
+    "bundled/links/Mekhilta DeRabbi Yishmael, Tractate Vayehi Beshalach.tsv": "e347839c4b14311734ec0258f711a7281fc888914a3808edc085f590e97fc68f",
+    "bundled/links/Midrash Shmuel.tsv": "3eaa6cb209faf6bf740cba35fa3688e9497d9322e3b28e17c6a952b898a8c9d1",
+    "bundled/links/Pesikta DeRav Kahana.tsv": "47add7d63634de591b02fd954ce93e5445327f9f729ca89173759bb0da7d58f2",
+    "bundled/links/Ruth Rabbah, Petichta.tsv": "c08f6ee23576f26ab3cf797792b1e8f318a51eb0c2165f3af493c5a67b1ac0bd",
+    "bundled/links/Ruth Rabbah.tsv": "533b5bd583d06be59f5851fb4db6064fa705cdc9706341b375349be1438277a8",
+    "bundled/links/Shir HaShirim Rabbah.tsv": "17933cfe6aea5b0985d18a80836aff48308a8d712a1bde2830a93c41755b95e2",
+    "bundled/own/Bamidbar Rabbah/de/Der Midrasch Bemidbar Rabba. Zum ersten Male ins Deutsche uebertragen von Dr. August Wünsche. Leizig 1885 [de].json": "b167c325790a9095d1d982079bfb5b2bff42d2c93b93ffe4d3c46214e864fee7",
+    "bundled/own/Devarim Rabbah/de/Der Midrasch Debarim Rabba; zum ersten Male ins Dt. übertr. von August Wünsche. Leipzig 1882.json": "0648afabc170b8d11f7364087a71bd0bf8aa42f2a902e549910cc85b2980ab34",
+    "bundled/own/Eikhah Rabbah/de/Der Midrasch Echa Rabbati, deutsch von A. Wünsche, Leipzig 1881 (Transkription eScriptorium).json": "e11f5e45c87beadb67996ff2902b647db4571d23126994135535649ae57d4c93",
+    "bundled/own/Esther Rabbah/de/Der Midrasch Esther, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json": "d4bcc1747aab617c4eb0b01ea0a544c20a0eac82d60783730ceb12b6fd83969e",
+    "bundled/own/Kohelet Rabbah/de/Der Midrasch Kohelet, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json": "6c5d4e34a17bb3cd2d3143a710afe597143fcc6f05d2607a2be5657cbeb67cb0",
+    "bundled/own/Mekhilta DeRabbi Yishmael/de/Mechiltha. Ein tannaitischer Midrasch zu Exodus, übersetzt und erläutert von J. Winter und A. Wünsche, Leipzig 1909.json": "0949109441082079f7199970fb8ba19bf081fed1a966be91ee64a5dca643f88d",
+    "bundled/own/Midrash Shmuel/de/Midrasch Samuel (Aus Israels Lehrhallen V), deutsch von A. Wünsche, Leipzig 1910 (Transkription eScriptorium).json": "b0f1e7a88f3b216f7408ecf89173c4dc615ce3f7b7a072a9c6c45cf2e1baf4f2",
+    "bundled/own/Pesikta DeRav Kahana/de/Pesikta des Rab Kahana, deutsch von A. Wünsche, Leipzig 1885 (Transkription eScriptorium).json": "d141bb6f6917cb9dc94905864dbed83108ff54b097addadc180cdaf006191a7e",
+    "bundled/own/Ruth Rabbah/de/Der Midrasch Ruth, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json": "ecccaa95ed818576cbccd8fb6017d0e1b57843205ffabc958c3868bd356ee2ca",
+    "bundled/own/Shir HaShirim Rabbah/de/Der Midrasch Schir Haschirim, deutsch von A. Wünsche, Leipzig 1880 (Transkription eScriptorium).json": "6b8657df94defd1f586ffccdd4adc4c5a72ea72935c115e7e68f02a72e3679cc",
+    "portraits/wuensche.jpg": "600d8a23659167da72ef5c7484f8e9770b88e2319d625424b3875c1801e45cc8",
+    "sefaria/Bereshit_Rabbah.json": "cb52860f9d4a289e170afa35063e264fcfefcc409c317af160c7e914612b926d",
+    "sefaria/Shemot_Rabbah.json": "fb3a243e60017390d5078c7303e3e254e522ca1b903cbf8887b23305b9fa7bea",
+    "sefaria/Vayikra_Rabbah.json": "89088f817d1b559f071cfcdd293512e26e1d840657ee5766482d258ed870777f",
+    "tools/mechilta/AUFTRAG_OCR.md": "42c0347c408fff1813ee527dd50ec8914d38f51301c7db45840efe3c0b70fb23",
+    "tools/mechilta/AUFTRAG_SEG.md": "8f9c920e01808a53b114d10560df414e691cd8adbf3f6c663c645c0cbe7d76c8",
+    "tools/mechilta/assemble.py": "7a097bf0f6d9a141fb450ecf87de7e59e7c0f0dfce07dbe36a47fe2418b9466c",
+    "tools/mechilta/blocks.py": "a9f58cfaf7d34e0bdc27bc24061114a31781a1b001a26afc8ad82930a8d63046",
+    "tools/mechilta/build_out.py": "26bdf7d34485eb7dafa166edc81be41d3411ca3c99613f3677b41ddcc7e253d7",
+    "tools/mechilta/merge.py": "3d219dbdead51312a258ba3625c2452fe0e3fa952d7af4b5ef65cf554fd9c800"
+  }
+}
